@@ -2,7 +2,7 @@ using System;
 using Volo.Abp.Application.Dtos;
 using Volo.Abp.Application.Services;
 
-namespace Acme.BookStore.Application.Contracts.Books
+namespace Acme.BookStore.Books
 {
     public interface IBookAppService :
         ICrudAppService< //Defines CRUD methods

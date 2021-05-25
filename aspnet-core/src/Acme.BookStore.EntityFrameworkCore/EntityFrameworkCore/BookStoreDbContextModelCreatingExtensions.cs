@@ -1,4 +1,4 @@
-﻿using Acme.BookStore.Domain.Books;
+﻿using Acme.BookStore.Books;
 using Microsoft.EntityFrameworkCore;
 using Volo.Abp;
 using Volo.Abp.EntityFrameworkCore.Modeling;

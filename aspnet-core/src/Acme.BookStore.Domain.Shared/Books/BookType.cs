@@ -1,4 +1,4 @@
-namespace Acme.BookStore.Domain.Shared.Books
+namespace Acme.BookStore.Books
 {
     public enum BookType
     {

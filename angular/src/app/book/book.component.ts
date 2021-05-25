@@ -1,7 +1,4 @@
-import { BookService } from '@proxy/application/books';
-import { BookDto } from '@proxy/application/contracts/books';
-import { bookTypeOptions } from '@proxy/domain/shared/books';
-
+import { BookService, BookDto, bookTypeOptions } from '@proxy/books';
 import { ListService, PagedResultDto } from '@abp/ng.core';
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';

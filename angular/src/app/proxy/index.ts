@@ -1,3 +1,2 @@
-import * as Application from './application';
-import * as Domain from './domain';
-export { Application, Domain };
+import * as Books from './books';
+export { Books };

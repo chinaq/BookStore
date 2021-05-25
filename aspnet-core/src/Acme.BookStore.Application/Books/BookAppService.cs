@@ -1,11 +1,9 @@
 using System;
-using Acme.BookStore.Application.Contracts.Books;
-using Acme.BookStore.Domain.Books;
 using Volo.Abp.Application.Dtos;
 using Volo.Abp.Application.Services;
 using Volo.Abp.Domain.Repositories;
 
-namespace Acme.BookStore.Application.Books
+namespace Acme.BookStore.Books
 {
     public class BookAppService :
         CrudAppService<

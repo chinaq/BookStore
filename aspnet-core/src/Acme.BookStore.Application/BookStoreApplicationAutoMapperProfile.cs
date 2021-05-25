@@ -1,5 +1,4 @@
-﻿using Acme.BookStore.Application.Contracts.Books;
-using Acme.BookStore.Domain.Books;
+﻿using Acme.BookStore.Books;
 using AutoMapper;
 
 namespace Acme.BookStore

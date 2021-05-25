@@ -1,8 +1,7 @@
 using System;
-using Acme.BookStore.Domain.Shared.Books;
 using Volo.Abp.Application.Dtos;
 
-namespace Acme.BookStore.Application.Contracts.Books
+namespace Acme.BookStore.Books
 {
     public class BookDto : AuditedEntityDto<Guid>
     {

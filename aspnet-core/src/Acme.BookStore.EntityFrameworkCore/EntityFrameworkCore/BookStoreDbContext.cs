@@ -5,7 +5,7 @@ using Volo.Abp.EntityFrameworkCore;
 using Volo.Abp.EntityFrameworkCore.Modeling;
 using Volo.Abp.Identity;
 using Volo.Abp.Users.EntityFrameworkCore;
-using Acme.BookStore.Domain.Books;
+using Acme.BookStore.Books;
 
 namespace Acme.BookStore.EntityFrameworkCore
 {
